@@ -1,16 +1,18 @@
-## Hi there 👋
+¡Hola! 👋
 
-<!--
-**MrX-zeta/MrX-zeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Brian, un desarrollador de software radicado en México.
 
-Here are some ideas to get you started:
+Me dedico a diseñar arquitecturas escalables y construir aplicaciones eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy realizando mi pasantía como Técnico Superior Universitario en ECOSUR, automatizando procesos institucionales y construyendo APIs.
+
+Mi stack principal está enfocado en Backend y DevOps: **Java, Kotlin, NestJS, PostgreSQL y AWS**. Para organizar mis ideas, diseñar y gestionar proyectos, mis herramientas favoritas son **Figma, Lucidchart y Jira**.
+
+Tengo varios repositorios fijados abajo, pero mi favorito actualmente es la arquitectura de microservicios Riff.
+
+Si quieres contactarme para hablar de código o proyectos, envíame un mensaje por [LinkedIn](https://www.linkedin.com/in/brian-p%C3%A9rez-75b9683a0) o un correo a [brianluisruizperez@gmail.com](mailto:brianluisruizperez@gmail.com).
+
+**Datos curiosos:**
+* 🚀 Me apasiona el mundo tech en general y dedico tiempo a leer noticias de desarrollo de software para mantenerme al día.
+* 🥶 Disfruto muchísimo del clima frío.
+* 🎧 En mi tiempo libre me gusta desconectarme y escuchar música.
