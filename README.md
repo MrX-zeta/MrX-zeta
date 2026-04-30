@@ -10,7 +10,7 @@ Mi stack principal está enfocado en Backend y DevOps: **Java, Kotlin, NestJS, P
 
 Tengo varios repositorios fijados abajo, pero mi favorito actualmente es la arquitectura de microservicios Riff.
 
-Si quieres contactarme para hablar de código o proyectos, envíame un mensaje por [LinkedIn](https://www.linkedin.com/in/brian-p%C3%A9rez-75b9683a0) o un correo a [brianluisruizperez@gmail.com](mailto:brianluisruizperez@gmail.com).
+Si quieres contactarme envíame un mensaje por [LinkedIn](https://www.linkedin.com/in/brian-p%C3%A9rez-75b9683a0) o un correo a [brianluisruizperez@gmail.com](mailto:brianluisruizperez@gmail.com).
 
 **Datos curiosos:**
 * 🚀 Me apasiona el mundo tech en general y dedico tiempo a leer noticias de desarrollo de software para mantenerme al día.
