@@ -4,7 +4,7 @@ Soy Brian, un desarrollador de software radicado en México.
 
 Me dedico a diseñar arquitecturas escalables y construir aplicaciones eficientes.
 
-Actualmente estoy realizando mi pasantía como Técnico Superior Universitario en ECOSUR, automatizando procesos institucionales y construyendo APIs.
+Actualmente estoy realizando mi estadía profesional en ECOSUR para obtener el título de Técnico Superior Universitario, automatizando procesos institucionales y construyendo APIs.
 
 Mi stack principal está enfocado en Backend y DevOps: **Java, Kotlin, NestJS, PostgreSQL y AWS**. Para organizar mis ideas, diseñar y gestionar proyectos, mis herramientas favoritas son **Figma, Lucidchart y Jira**.
 
