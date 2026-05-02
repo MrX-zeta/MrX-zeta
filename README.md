@@ -1,18 +1,30 @@
-¡Hola! 👋
+# Brian Ruiz · Backend & Android Developer
 
-Soy Brian, un desarrollador de software radicado en México.
+Desarrollador especializado en backend (arquitectura y microservicios) y desarrollo móvil nativo, con capacidad para abarcar el stack completo cuando el proyecto lo requiere. Me gusta entender el problema antes de escribir la primera línea de código — primero el análisis, la planificación y la arquitectura; después el desarrollo.
 
-Me dedico a diseñar arquitecturas escalables y construir aplicaciones eficientes.
+Actualmente colaborando con **ECOSUR** en la construcción de un sistema de automatización de procesos institucionales con .NET, MudBlazor y Entity Framework. A la par, continúo mi formación en Ingeniería en Tecnologías de la Información en la Universidad Politécnica de Chiapas.
 
-Actualmente estoy realizando mi estadía profesional en ECOSUR para obtener el título de Técnico Superior Universitario, automatizando procesos institucionales y construyendo APIs.
+**Stack principal:** NestJS · Kotlin · Jetpack Compose · Java · .NET · PostgreSQL · MongoDB · Docker · AWS · RabbitMQ
 
-Mi stack principal está enfocado en Backend y DevOps: **Java, Kotlin, NestJS, PostgreSQL y AWS**. Para organizar mis ideas, diseñar y gestionar proyectos, mis herramientas favoritas son **Figma, Lucidchart y Jira**.
+---
 
-Tengo varios repositorios fijados abajo, pero mi favorito actualmente es la arquitectura de microservicios Riff.
+## Proyectos
 
-Si quieres contactarme envíame un mensaje por [LinkedIn](https://www.linkedin.com/in/brian-p%C3%A9rez-75b9683a0) o un correo a [brianluisruizperez@gmail.com](mailto:brianluisruizperez@gmail.com).
+**[Riff](https://github.com/MrX-zeta/Riff-UP)** — Red social para artistas independientes.
+Fui responsable de la arquitectura completa: diseño de microservicios, diagramas ER, base de datos, DevOps y testing de flujos de usuario. Diseñé e implementé la capa de seguridad completa: autenticación con Google OAuth 2.0, JWT, guards de roles por endpoint, rate limiting y política CSP con Helmet.
+*Stack: NestJS, RabbitMQ, PostgreSQL, Docker.*
 
-**Datos curiosos:**
-* 🚀 Me apasiona el mundo tech en general y dedico tiempo a leer noticias de desarrollo de software para mantenerme al día.
-* 🥶 Disfruto muchísimo del clima frío.
-* 🎧 En mi tiempo libre me gusta desconectarme y escuchar música.
+**[Artely](https://github.com/MrX-zeta/Artely)** — App Android nativa para descubrimiento de arte local.
+Propuse la idea, lideré al equipo y definí las decisiones técnicas. Implementé MVVM y Hilt DI, logrando un sistema donde cada capa es reemplazable sin afectar al resto. Incluye mensajería en tiempo real y notificaciones push.
+*Stack: Kotlin, Jetpack Compose, Hilt, Room.*
+
+**[Collabs](https://github.com/MrX-zeta/Collabs-UP)** — Plataforma web para gestión de equipos bajo principios SOA.
+Aunque mi especialidad es el backend, asumí el frontend completo (diseño, prototipado y maquetación), logrando una separación clara entre capas y una integración fluida con las APIs desacopladas.
+*Stack: Next.js, NestJS (API Gateway), Vercel, Railway.*
+
+---
+
+### Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Ruiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-p%C3%A9rez-75b9683a0)
+[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=brianluisruizperez@gmail.com)
