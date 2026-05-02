@@ -9,19 +9,23 @@ Actualmente colaborando con **ECOSUR** en la construcción de un sistema de auto
 ---
 
 ## Proyectos
-
+ 
 **[Riff](https://github.com/MrX-zeta/Riff-UP)** — Red social para artistas independientes.
 Fui responsable de la arquitectura completa: diseño de microservicios, diagramas ER, base de datos, DevOps y testing de flujos de usuario. Diseñé e implementé la capa de seguridad completa: autenticación con Google OAuth 2.0, JWT, guards de roles por endpoint, rate limiting y política CSP con Helmet.
 *Stack: NestJS, RabbitMQ, PostgreSQL, Docker.*
-
-**[Artely](https://github.com/MrX-zeta/Artely)** — App Android nativa para descubrimiento de arte local.
-Propuse la idea, lideré al equipo y definí las decisiones técnicas. Implementé MVVM y Hilt DI, logrando un sistema donde cada capa es reemplazable sin afectar al resto. Incluye mensajería en tiempo real y notificaciones push.
-*Stack: Kotlin, Jetpack Compose, Hilt, Room.*
-
+ 
 **[Collabs](https://github.com/MrX-zeta/Collabs-UP)** — Plataforma web para gestión de equipos bajo principios SOA.
 Aunque mi especialidad es el backend, asumí el frontend completo (diseño, prototipado y maquetación), logrando una separación clara entre capas y una integración fluida con las APIs desacopladas.
 *Stack: Next.js, NestJS (API Gateway), Vercel, Railway.*
-
+ 
+**[Artely](https://github.com/MrX-zeta/Artely)** — App Android nativa para descubrimiento de arte local.
+Propuse la idea, lideré al equipo y definí las decisiones técnicas. Implementé MVVM y Hilt DI, logrando un sistema donde cada capa es reemplazable sin afectar al resto. Incluye mensajería en tiempo real y notificaciones push.
+*Stack: Kotlin, Jetpack Compose, Hilt, Room.*
+ 
+**[Sazón Patrimonial](https://github.com/edmonbl/spBack)** — Catálogo web de restaurantes locales en San Cristóbal de las Casas.
+Diseñé la arquitectura MVC, el esquema relacional de la BD y las consultas. Implementé inyección de dependencias manual en Java puro y me encargué del despliegue en AWS con almacenamiento multimedia directo en la API.
+*Stack: Java, Javalin, MySQL, AWS.*
+ 
 ---
 
 ### Contacto
