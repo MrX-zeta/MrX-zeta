@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 320" width="880" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Brian Ruiz · Desarrollador de software</title>
+  <desc id="d">Tarjeta de presentación de Brian Ruiz, desarrollador de software en Chiapas, México. Software a la medida: aplicaciones móviles y web, APIs y bases de datos, automatización de procesos. Abierto a proyectos y vacantes.</desc>
+  <defs><clipPath id="card"><rect width="880" height="320" rx="14"/></clipPath></defs>
+  <style>
+  .t{font-family:Georgia, 'Times New Roman', 'Noto Serif', serif;}
+  .name{font-size:58px;fill:#eef1f7;letter-spacing:-1.2px}
+  .role{font-size:18px;fill:#8d97a8;letter-spacing:.3px}
+  .h{font-size:17px;fill:#eef1f7;font-weight:bold}
+  .li{font-size:16px;fill:#c3cad8}
+  .foot{font-size:12.5px;fill:#8d97a8;letter-spacing:.2px}
+  .acc{stroke:#93a5f0;fill:none;stroke-linecap:round;stroke-linejoin:round}
+
+  .edge{stroke:#93a5f0;stroke-width:1.4;fill:none;opacity:.6;stroke-dasharray:1;stroke-dashoffset:0;animation:draw var(--u) ease-out var(--d) both}
+  .core{transform-box:fill-box;transform-origin:center;animation:pop .3s ease-out var(--d) both}
+  .halo{opacity:.75;animation:glow .9s ease-out var(--g) both}
+  .phone{opacity:0;animation:vanish 3.2s ease-in-out both}
+  .body{fill:#0e1420;stroke:#c3cad8;stroke-width:1.6;stroke-dasharray:1;stroke-dashoffset:0;animation:draw .8s ease-out both}
+  .ui{fill:none;stroke:#c3cad8;stroke-width:1.2}
+  @keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+  @keyframes pop{from{opacity:0;transform:scale(.2)}to{opacity:1;transform:scale(1)}}
+  @keyframes glow{0%{opacity:0}45%{opacity:1}100%{opacity:.75}}
+  @keyframes vanish{0%{opacity:0}14%{opacity:1}38%{opacity:1}60%{opacity:0}100%{opacity:0}}
+
+  @media (prefers-reduced-motion: reduce){*{animation:none !important}}
+</style>
+  <rect width="880" height="320" rx="14" fill="#0e1420"/>
+  <rect x=".5" y=".5" width="879" height="319" rx="13.5" fill="none" stroke="#1f2a3d"/>
+  <g clip-path="url(#card)">
+
+  <text class="t name" x="48" y="92">Brian Ruiz</text>
+  <text class="t role" x="50" y="124">Desarrollador de software</text>
+  <line x1="48" y1="146" x2="500" y2="146" stroke="#1f2a3d" stroke-width="1"/>
+  <line x1="49" y1="164" x2="49" y2="252" stroke="#93a5f0" stroke-width="2"/>
+  <text class="t h" x="66" y="178">Software a la medida:</text>
+  <text class="t li" x="66" y="202">Aplicaciones móviles y web.</text>
+  <text class="t li" x="66" y="224">APIs y bases de datos.</text>
+  <text class="t li" x="66" y="246">Automatización de procesos.</text>
+  <line x1="48" y1="272" x2="832" y2="272" stroke="#1f2a3d" stroke-width="1"/>
+  <text class="t foot" x="72" y="298">Chiapas, México · Abierto a proyectos y vacantes</text>
+
+  <defs><radialGradient id="glow"><stop offset="0" stop-color="#93a5f0" stop-opacity=".55"/><stop offset="1" stop-color="#93a5f0" stop-opacity="0"/></radialGradient></defs>
+  <g>
+    <path class="edge" pathLength="1" d="M850 70L795 150" style="--d:1.10s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M795 150L850 228" style="--d:1.10s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M850 70L735 88" style="--d:1.21s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M795 150L735 88" style="--d:1.31s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M795 150L705 208" style="--d:1.36s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M850 228L705 208" style="--d:1.26s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M735 88L655 58" style="--d:1.56s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M735 88L645 150" style="--d:1.58s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M705 208L645 150" style="--d:1.64s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M655 58L590 100" style="--d:1.83s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M645 150L590 100" style="--d:1.85s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M645 150L585 215" style="--d:1.85s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M705 208L585 215" style="--d:1.75s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M795 150L645 150" style="--d:1.47s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M590 100L590 160" style="--d:1.95s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M590 160L585 215" style="--d:1.95s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M645 150L590 160" style="--d:1.85s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M850 228L790 192" style="--d:1.11s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M795 150L790 192" style="--d:1.21s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M790 192L705 208" style="--d:1.37s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M850 70L792 46" style="--d:1.11s;--u:0.45s"/>
+    <path class="edge" pathLength="1" d="M792 46L735 88" style="--d:1.31s;--u:0.45s"/>
+    <circle class="halo" cx="850" cy="70" r="14" fill="url(#glow)" style="--g:1.25s"/>
+    <circle class="core" cx="850" cy="70" r="3.6" fill="#93a5f0" style="--d:1.00s"/>
+    <circle class="halo" cx="795" cy="150" r="22" fill="url(#glow)" style="--g:1.45s"/>
+    <circle class="core" cx="795" cy="150" r="5" fill="#cdd6ff" style="--d:1.20s"/>
+    <circle class="halo" cx="850" cy="228" r="14" fill="url(#glow)" style="--g:1.25s"/>
+    <circle class="core" cx="850" cy="228" r="3.6" fill="#93a5f0" style="--d:1.00s"/>
+    <circle class="halo" cx="735" cy="88" r="22" fill="url(#glow)" style="--g:1.67s"/>
+    <circle class="core" cx="735" cy="88" r="5" fill="#cdd6ff" style="--d:1.42s"/>
+    <circle class="halo" cx="705" cy="208" r="22" fill="url(#glow)" style="--g:1.78s"/>
+    <circle class="core" cx="705" cy="208" r="5" fill="#cdd6ff" style="--d:1.53s"/>
+    <circle class="halo" cx="655" cy="58" r="14" fill="url(#glow)" style="--g:1.96s"/>
+    <circle class="core" cx="655" cy="58" r="3.6" fill="#93a5f0" style="--d:1.71s"/>
+    <circle class="halo" cx="645" cy="150" r="22" fill="url(#glow)" style="--g:2.00s"/>
+    <circle class="core" cx="645" cy="150" r="5" fill="#cdd6ff" style="--d:1.75s"/>
+    <circle class="halo" cx="590" cy="100" r="14" fill="url(#glow)" style="--g:2.20s"/>
+    <circle class="core" cx="590" cy="100" r="3.6" fill="#93a5f0" style="--d:1.95s"/>
+    <circle class="halo" cx="585" cy="215" r="14" fill="url(#glow)" style="--g:2.21s"/>
+    <circle class="core" cx="585" cy="215" r="3.6" fill="#93a5f0" style="--d:1.96s"/>
+    <circle class="halo" cx="590" cy="160" r="14" fill="url(#glow)" style="--g:2.20s"/>
+    <circle class="core" cx="590" cy="160" r="3.6" fill="#93a5f0" style="--d:1.95s"/>
+    <circle class="halo" cx="790" cy="192" r="14" fill="url(#glow)" style="--g:1.47s"/>
+    <circle class="core" cx="790" cy="192" r="3.6" fill="#93a5f0" style="--d:1.22s"/>
+    <circle class="halo" cx="792" cy="46" r="14" fill="url(#glow)" style="--g:1.46s"/>
+    <circle class="core" cx="792" cy="46" r="3.6" fill="#93a5f0" style="--d:1.21s"/>
+  </g>
+  <g class="phone">
+    <rect class="body" pathLength="1" x="683" y="46" width="104" height="226" rx="19"/>
+    <rect class="ui" x="787" y="104" width="2.5" height="30" rx="1.2"/>
+    <circle class="ui" cx="735" cy="62" r="3"/>
+    <rect class="ui" x="697" y="84" width="46" height="6" rx="3"/>
+    <rect class="ui" x="697" y="102" width="76" height="50" rx="7"/>
+    <rect class="ui" x="697" y="166" width="76" height="5" rx="2.5"/>
+    <rect class="ui" x="697" y="180" width="54" height="5" rx="2.5"/>
+    <rect class="ui" x="697" y="194" width="66" height="5" rx="2.5"/>
+    <rect class="ui" x="697" y="220" width="76" height="20" rx="10"/>
+    <rect class="ui" x="718" y="257" width="34" height="3" rx="1.5"/>
+  </g>
+  </g>
+<circle cx="56" cy="294" r="3.2" fill="#93a5f0"/>
+</svg>
